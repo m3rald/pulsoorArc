@@ -1,0 +1,8 @@
+{
+  "name": "ArcPulse",
+  "description": "Real-time analytics dashboard for Arc Network — the stablecoin-native L1 blockchain by Circle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
